@@ -1,0 +1,66 @@
+[
+    {
+        "account": 1001,
+        "name": "Luiz Gall",
+        "password": 123456,
+        "balance": 1000,
+        "logs": [],
+        "email": "luiz_gall@hotmail.com"
+    },
+    {
+        "name": "Robério de Jesus dos Anjos",
+        "password": 123456,
+        "balance": 1000,
+        "account": 1002,
+        "logs": [],
+        "email": "dantewebmaster@outlook.com"
+    },
+    {
+        "name": "Bruno Brandão Mendes Sesso",
+        "password": 123456,
+        "balance": 1000,
+        "account": 1003,
+        "logs": [], 
+        "email": "bruno.sesso@gmail.com"
+    },
+    {
+        "name": "Marcelo dos Santos Veiga",
+        "password": 123456,
+        "balance": 1000,
+        "account": 1004,
+        "logs": [],
+        "email": "nglinebanking@gmail.com"
+    },
+    {
+        "name": "André Camargo",
+        "password": 123456,
+        "balance": 1000,
+        "account": 1005,
+        "logs": [],
+        "email": "andre.camargo500@gmail.com"
+    },
+    {
+        "name": "Maykon Henrique dos Santos",
+        "password": 123456,
+        "balance": 1000,
+        "account": 1006,
+        "logs": [],
+        "email": "maykonhs@gmail.com"
+    },
+    {
+        "name": "Murilo Portescheller",
+        "password": 123456,
+        "balance": 1000,
+        "account": 1007,
+        "logs": [],
+        "email": "mport.dev@gmail.com"
+    },
+    {
+        "name": "Bruno Serafim de Morais",
+        "password": 123456,
+        "balance": 1000,
+        "account": 1008,
+        "logs": [],
+        "email":"bsmserafim@gmail.com"
+    } 
+]
